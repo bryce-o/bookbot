@@ -1,1 +1,3 @@
 # bookbot
+
+Exploratory Go project
